@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![image](https://github.com/ZafreenJagir/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870573/063d1f1d-b1d8-4f5a-8d23-298d23a62f0c)
+ ![Screenshot 2023-12-11 175455](https://github.com/ZafreenJagir/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870573/257c8bc9-bc2b-429e-9557-b865feb1d55c)
+
 
  
  ## RESULT
